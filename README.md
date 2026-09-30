@@ -1,2 +1,17 @@
-# PAM_IFB5B_2411058
-college thingy idk 
+Pemrograman Aplikasi Bergerak
+Nama: Rizky Ariello Nesta
+NIM: 2411058
+Kelas: IFB5B
+Mata Kuliah: Pemrograman Aplikasi Bergerak
+
+Judul Proyek
+-
+
+Deskripsi
+-
+
+Teknologi/Framework
+-
+
+Repository
+GitHub
